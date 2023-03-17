@@ -1,0 +1,22 @@
+body{
+    background-color: #F6D796;
+}
+
+.card{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-image: url("1.jpg");
+    /* linear-gradient(red, yellow) */
+    color:black;
+    font-weight: bold;
+}
+#bottle{
+    position: absolute;
+    width: 144px;
+    height: 177px;
+}
+@media (max-width:1555px) {
+    .container{
+        padding-top: 155px;
+    }
+}
