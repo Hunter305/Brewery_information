@@ -33,6 +33,5 @@ fetch("https://api.openbrewerydb.org/breweries")
         x[i].style.display="flex"; 
       }
     }
-    console.log(x[0])
   }
 
